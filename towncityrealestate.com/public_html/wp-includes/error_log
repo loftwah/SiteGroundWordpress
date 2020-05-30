@@ -1,0 +1,4 @@
+[27-Nov-2017 12:16:55 UTC] PHP Fatal error:  Class 'Walker' not found in /home/towncity/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[19-Jan-2018 21:33:47 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/towncity/public_html/wp-includes/locale.php on line 10
+[14-Mar-2018 20:22:16 UTC] PHP Fatal error:  Class 'Walker' not found in /home2/towncity/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[23-Mar-2018 05:44:33 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home2/towncity/public_html/wp-includes/locale.php on line 10

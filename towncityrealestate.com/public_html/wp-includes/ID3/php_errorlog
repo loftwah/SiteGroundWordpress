@@ -1,0 +1,4 @@
+[26-Mar-2020 19:14:19 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/towncity/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/towncity/public_html/wp-includes/ID3/module.audio.ac3.php on line 18

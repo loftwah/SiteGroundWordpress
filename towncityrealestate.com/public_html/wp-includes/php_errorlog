@@ -1,0 +1,1 @@
+[01-Apr-2020 06:06:41 CST6CDT] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/local/php73/pear') in /home/towncity/public_html/wp-includes/functions.php on line 8

@@ -1,0 +1,434 @@
+# Copyright (C) 2016 HomeTown CPT
+# This file is distributed under the same license as the HomeTown CPT package.
+msgid ""
+msgstr ""
+"Project-Id-Version: HomeTown CPT 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hometown-cpt\n"
+"POT-Creation-Date: 2016-04-14 14:40:36+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: cpt/agent/meta.php:4
+msgid "Agent Meta"
+msgstr ""
+
+#: cpt/agent/meta.php:14
+msgid "Button"
+msgstr ""
+
+#: cpt/agent/meta.php:20
+msgid "Text"
+msgstr ""
+
+#: cpt/agent/meta.php:26
+msgid "Link"
+msgstr ""
+
+#: cpt/agent/meta.php:33
+msgid "Color"
+msgstr ""
+
+#: cpt/agent/meta.php:40
+msgid "Icon"
+msgstr ""
+
+#: cpt/agent/meta.php:53
+msgid "Role"
+msgstr ""
+
+#: cpt/agent/meta.php:59
+msgid "Phone Number"
+msgstr ""
+
+#: cpt/agent/meta.php:65
+msgid "Email"
+msgstr ""
+
+#: cpt/agent/register.php:7 cpt/agent/register.php:8 cpt/agent/register.php:19
+msgid "Agent"
+msgstr ""
+
+#: cpt/agent/register.php:9 cpt/property/register.php:9
+msgid "Add New"
+msgstr ""
+
+#: cpt/agent/register.php:10
+msgid "Add New Agent"
+msgstr ""
+
+#: cpt/agent/register.php:11
+msgid "Edit Agent"
+msgstr ""
+
+#: cpt/agent/register.php:12
+msgid "New Agent"
+msgstr ""
+
+#: cpt/agent/register.php:13
+msgid "View Agent"
+msgstr ""
+
+#: cpt/agent/register.php:14
+msgid "Search Agent"
+msgstr ""
+
+#: cpt/agent/register.php:15
+msgid "No Agent found"
+msgstr ""
+
+#: cpt/agent/register.php:16
+msgid "No Agent found in Trash"
+msgstr ""
+
+#: cpt/property/meta.php:4
+msgid "Property Meta"
+msgstr ""
+
+#: cpt/property/meta.php:14 cpt/property/meta.php:26
+msgid "Detail"
+msgstr ""
+
+#: cpt/property/meta.php:20 cpt/property/meta.php:41
+msgid "Title"
+msgstr ""
+
+#: cpt/property/meta.php:35
+msgid "Attachment"
+msgstr ""
+
+#: cpt/property/meta.php:47
+msgid "File"
+msgstr ""
+
+#: cpt/property/meta.php:59
+msgid "ID"
+msgstr ""
+
+#: cpt/property/meta.php:65
+msgid "Price"
+msgstr ""
+
+#: cpt/property/meta.php:67
+msgid "number only<br /><br />you can define currency symbol at \"appearance > theme options > property\"<br /><br />set to \"0\" to show default string which can be define at \"appearance > theme options > property\""
+msgstr ""
+
+#: cpt/property/meta.php:72
+msgid "Per"
+msgstr ""
+
+#: cpt/property/meta.php:73
+msgid "example: day, month, year"
+msgstr ""
+
+#: cpt/property/meta.php:78
+msgid "Area"
+msgstr ""
+
+#: cpt/property/meta.php:80
+msgid "number only<br /><br />you can define currency symbol at \"appearance > theme options > property\""
+msgstr ""
+
+#: cpt/property/meta.php:85
+msgid "Bathroom"
+msgstr ""
+
+#: cpt/property/meta.php:92
+msgid "Bedroom"
+msgstr ""
+
+#: cpt/property/meta.php:99
+msgid "Garage"
+msgstr ""
+
+#: cpt/property/meta.php:106
+msgid "Featured"
+msgstr ""
+
+#: cpt/property/meta.php:113
+msgid "Video Thumbnail"
+msgstr ""
+
+#: cpt/property/meta.php:119
+msgid "Video URL"
+msgstr ""
+
+#: cpt/property/meta.php:120
+msgid "support youtube & vimeo"
+msgstr ""
+
+#: cpt/property/meta.php:125
+msgid "Gallery"
+msgstr ""
+
+#: cpt/property/meta.php:131
+msgid "Location Text"
+msgstr ""
+
+#: cpt/property/meta.php:137 cpt/property/register.php:41
+#: cpt/property/register.php:42 cpt/property/register.php:55
+msgid "Location"
+msgstr ""
+
+#: cpt/property/meta.php:138
+msgid "this information will be shown on \"location\" tab"
+msgstr ""
+
+#: cpt/property/meta.php:143
+msgid "Agents"
+msgstr ""
+
+#: cpt/property/meta.php:144
+msgid "this information will be shown on \"contact\" tab"
+msgstr ""
+
+#: cpt/property/meta.php:151
+msgid "Details"
+msgstr ""
+
+#: cpt/property/meta.php:152 cpt/property/meta.php:160
+#: cpt/property/meta.php:166
+msgid "this information will be shown on \"detail\" tab"
+msgstr ""
+
+#: cpt/property/meta.php:154
+msgid "Add Property Detail"
+msgstr ""
+
+#: cpt/property/meta.php:159
+msgid "Floor Plans"
+msgstr ""
+
+#: cpt/property/meta.php:165
+msgid "Attachments"
+msgstr ""
+
+#: cpt/property/meta.php:168
+msgid "Add Attachment"
+msgstr ""
+
+#: cpt/property/register.php:7 cpt/property/register.php:8
+#: cpt/property/register.php:19
+msgid "Property"
+msgstr ""
+
+#: cpt/property/register.php:10
+msgid "Add New Property"
+msgstr ""
+
+#: cpt/property/register.php:11
+msgid "Edit Property"
+msgstr ""
+
+#: cpt/property/register.php:12
+msgid "New Property"
+msgstr ""
+
+#: cpt/property/register.php:13
+msgid "View Property"
+msgstr ""
+
+#: cpt/property/register.php:14
+msgid "Search Property"
+msgstr ""
+
+#: cpt/property/register.php:15
+msgid "No Property found"
+msgstr ""
+
+#: cpt/property/register.php:16
+msgid "No Property found in Trash"
+msgstr ""
+
+#: cpt/property/register.php:43
+msgid "Search Location"
+msgstr ""
+
+#: cpt/property/register.php:44
+msgid "Popular Location"
+msgstr ""
+
+#: cpt/property/register.php:45
+msgid "All Location"
+msgstr ""
+
+#: cpt/property/register.php:48
+msgid "Edit Location"
+msgstr ""
+
+#: cpt/property/register.php:49
+msgid "Update Location"
+msgstr ""
+
+#: cpt/property/register.php:50
+msgid "Add New Location"
+msgstr ""
+
+#: cpt/property/register.php:51
+msgid "New Location Name"
+msgstr ""
+
+#: cpt/property/register.php:52
+msgid "Separate Location with commas"
+msgstr ""
+
+#: cpt/property/register.php:53
+msgid "Add or remove Location"
+msgstr ""
+
+#: cpt/property/register.php:54
+msgid "Choose from the most used Location"
+msgstr ""
+
+#: cpt/property/register.php:71 cpt/property/register.php:72
+#: cpt/property/register.php:85
+msgid "Type"
+msgstr ""
+
+#: cpt/property/register.php:73
+msgid "Search Type"
+msgstr ""
+
+#: cpt/property/register.php:74
+msgid "Popular Type"
+msgstr ""
+
+#: cpt/property/register.php:75
+msgid "All Type"
+msgstr ""
+
+#: cpt/property/register.php:78
+msgid "Edit Type"
+msgstr ""
+
+#: cpt/property/register.php:79
+msgid "Update Type"
+msgstr ""
+
+#: cpt/property/register.php:80
+msgid "Add New Type"
+msgstr ""
+
+#: cpt/property/register.php:81
+msgid "New Type Name"
+msgstr ""
+
+#: cpt/property/register.php:82
+msgid "Separate Type with commas"
+msgstr ""
+
+#: cpt/property/register.php:83
+msgid "Add or remove Type"
+msgstr ""
+
+#: cpt/property/register.php:84
+msgid "Choose from the most used Type"
+msgstr ""
+
+#: cpt/property/register.php:102 cpt/property/register.php:103
+#: cpt/property/register.php:116
+msgid "Status"
+msgstr ""
+
+#: cpt/property/register.php:104
+msgid "Search Status"
+msgstr ""
+
+#: cpt/property/register.php:105
+msgid "Popular Status"
+msgstr ""
+
+#: cpt/property/register.php:106
+msgid "All Status"
+msgstr ""
+
+#: cpt/property/register.php:109
+msgid "Edit Status"
+msgstr ""
+
+#: cpt/property/register.php:110
+msgid "Update Status"
+msgstr ""
+
+#: cpt/property/register.php:111
+msgid "Add New Status"
+msgstr ""
+
+#: cpt/property/register.php:112
+msgid "New Status Name"
+msgstr ""
+
+#: cpt/property/register.php:113
+msgid "Separate Status with commas"
+msgstr ""
+
+#: cpt/property/register.php:114
+msgid "Add or remove Status"
+msgstr ""
+
+#: cpt/property/register.php:115 cpt/property/register.php:146
+msgid "Choose from the most used Status"
+msgstr ""
+
+#: cpt/property/register.php:133 cpt/property/register.php:134
+#: cpt/property/register.php:147
+msgid "Feature"
+msgstr ""
+
+#: cpt/property/register.php:135
+msgid "Search Feature"
+msgstr ""
+
+#: cpt/property/register.php:136
+msgid "Popular Feature"
+msgstr ""
+
+#: cpt/property/register.php:137
+msgid "All Feature"
+msgstr ""
+
+#: cpt/property/register.php:140
+msgid "Edit Feature"
+msgstr ""
+
+#: cpt/property/register.php:141
+msgid "Update Feature"
+msgstr ""
+
+#: cpt/property/register.php:142
+msgid "Add New Feature"
+msgstr ""
+
+#: cpt/property/register.php:143
+msgid "New Feature Name"
+msgstr ""
+
+#: cpt/property/register.php:144
+msgid "Separate Feature with commas"
+msgstr ""
+
+#: cpt/property/register.php:145
+msgid "Add or remove Feature"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "HomeTown CPT"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://leafthemes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Custom Post Type for HomeTown Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "LeafThemes Studio"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://leafthemes.com/"
+msgstr ""
