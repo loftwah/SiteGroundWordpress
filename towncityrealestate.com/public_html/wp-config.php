@@ -23,6 +23,8 @@ define( 'WP_MEMORY_LIMIT', '256M' );
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
+// ** Hi, my name is Dean and I've found a problem with your repository for your site. You should switch it to a private repository or add a .gitignore into your repo root directory that is designed for WordPress. The lines below are your credentials in plain text that could be used by anyone, which is why I'm writing to you now so you know before anything bad happens. ** //
+
 define('DB_NAME', 'dbtz577zh6et5f');
 
 /** MySQL database username */
